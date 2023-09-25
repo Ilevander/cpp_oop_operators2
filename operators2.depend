@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1673667165 source:c:\users\elamr\documents\operators2\main.cpp
+	<iostream>
+	"ops.h"
+
+1673667330 c:\users\elamr\documents\operators2\ops.h
+	<iostream>
+
